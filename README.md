@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxoir&label=Profile%20views&color=0e75b6&style=flat" alt="zxoir" /> </p>
 
-- 🔭 I’m currently working on [Rapid Mind](https://github.com/Zxoir/RapidMind)
+- 🔭 I’m currently working on [cleanrr](https://github.com/Zxoir/cleanrr)
 
-- 🌱 I’m currently learning **App and Game Development (Flutter - Godot)**
+- 🌱 I’m currently learning **Python for DevOps/AI, Cloud (AWS), and Kubernetes**
+  
+- 🤝 I’m looking to collaborate on **DevOps, AI applications, and IoT projects**
 
 - 📫 How to reach me **rayanalyasi@gmail.com**
 
