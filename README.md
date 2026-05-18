@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on [cleanrr](https://github.com/Zxoir/cleanrr)
 
 - 🌱 I’m currently learning **Python for DevOps/AI, Cloud (AWS), and Kubernetes**
-  
-- 🤝 I’m looking to collaborate on **DevOps, AI applications, and IoT projects**
 
 - 📫 How to reach me **rayanalyasi@gmail.com**
 
