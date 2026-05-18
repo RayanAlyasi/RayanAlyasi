@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rayan Alyasi</h1>
 <h3 align="center">A passionate self-taught developer from Saudi Arabia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zxoir&label=Profile%20views&color=0e75b6&style=flat" alt="zxoir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanAlyasi&label=Profile%20views&color=0e75b6&style=flat" alt="rayanalyasi" /> </p>
 
-- 🔭 I’m currently working on [cleanrr](https://github.com/Zxoir/cleanrr)
+- 🔭 I’m currently working on [cleanrr](https://github.com/RayanAlyasi/cleanrr)
 
 - 🌱 I’m currently learning **Python for DevOps/AI, Cloud (AWS), and Kubernetes**
 
