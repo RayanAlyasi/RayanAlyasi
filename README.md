@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [cleanrr](https://github.com/RayanAlyasi/cleanrr)
 
-- 🌱 I’m currently learning **Python for DevOps/AI, Cloud (AWS), and Kubernetes**
-
 - 📫 How to reach me **rayanalyasi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
