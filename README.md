@@ -1,13 +1,16 @@
-<div align="center">
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a9c5660b-b724-40db-b67a-f125cae131ff" width="640" alt="Pixel art: a container ship sailing past Jeddah's fountain at sunset">
+<br>
+  <sub><samp>shipping containers from Jeddah</samp></sub>
+</p>
 
-<img src="https://github.com/user-attachments/assets/a9c5660b-b724-40db-b67a-f125cae131ff" alt="Pixel art: a container ship sailing past Jeddah's fountain at sunset" width="640">
-
-<sub><i>shipping containers from Jeddah</i></sub>
-
-### Hi, I'm Rayan 👋
-
-DevOps engineering intern at [Tabby](https://tabby.ai), working on GitOps and Kubernetes
-
-[website](https://alyasi.tech) · [linkedin](https://linkedin.com/in/rayanalyasi) · [email](mailto:rayanalyasi@gmail.com)
-
-</div>
+<p align="center">
+  <samp>
+    Hi, I'm <b>Rayan</b>.
+    <br>DevOps intern at Tabby. Self-hosting since 2021.
+    <br><br>
+    <a href="https://alyasi.tech">alyasi.tech</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/rayanalyasi">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:rayanalyasi@gmail.com">Email</a>
+  </samp>
+</p>
