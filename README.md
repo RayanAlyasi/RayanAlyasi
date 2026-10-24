@@ -7,18 +7,25 @@
 <p align="center">
   <samp>
     Hi, I'm <b>Rayan</b>.
-    <br>DevOps intern at Tabby. Coding since 14. Self-hosting since 2021.
-    <br><br>
-    <a href="https://alyasi.tech">alyasi.tech</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/rayanalyasi">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="mailto:rayanalyasi@gmail.com">Email</a>
+    <br>DevOps intern at Tabby. Self-hosting since 2021. Coding since 14.
   </samp>
 </p>
 
+<div align="center">
+<details>
+  <summary><samp>open source contributions</samp></summary>
+  <br>
+  <samp>
+    <a href="https://github.com/crossplane-contrib/provider-upjet-gcp/pull/1083">Crossplane GCP provider</a>: added the CustomConstraint resource, tested end-to-end on a real GCP org
+    <br><a href="https://github.com/argoproj/argo-cd/pull/30406">Argo CD</a>: fixed a flaky notification-controller test (informer cache-sync race)
+  </samp>
+</details>
+</div>
+
 <p align="center">
   <samp>
-    <b>Open source</b>
-    <br><a href="https://github.com/argoproj/argo-cd/pull/30406">Argo CD</a>: fixed a flaky notification-controller test (informer cache-sync race)
-    <br><a href="https://github.com/crossplane-contrib/provider-upjet-gcp/pull/1083">Crossplane GCP provider</a>: added the CustomConstraint resource, tested end-to-end on a real GCP org
+    <a href="https://alyasi.tech">alyasi.tech</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/rayanalyasi">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:rayanalyasi@gmail.com">Email</a>
   </samp>
 </p>
