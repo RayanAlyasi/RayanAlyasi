@@ -16,8 +16,8 @@
   <summary><samp>open source contributions</samp></summary>
   <br>
   <samp>
-    <a href="https://github.com/crossplane-contrib/provider-upjet-gcp/pull/1083">Crossplane GCP provider</a>: added the CustomConstraint resource, tested end-to-end on a real GCP org
-    <br><a href="https://github.com/argoproj/argo-cd/pull/30406">Argo CD</a>: fixed a flaky notification-controller test (informer cache-sync race)
+    <a href="https://github.com/argoproj/argo-cd/pull/30406">Argo CD</a>: fixed a flaky notification-controller test (informer cache-sync race)
+    <br><a href="https://github.com/crossplane-contrib/provider-upjet-gcp/pull/1083">Crossplane GCP provider</a>: added the CustomConstraint resource, tested end-to-end on a real GCP org
   </samp>
 </details>
 </div>
